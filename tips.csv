@@ -1,0 +1,15 @@
+total_bill,tip,sex,smoker,day,time,size
+16.99,1.01,female,no,sun,dinner,2
+10.34,1.66,male,no,sun,dinner,3
+21.01,3.5,male,no,sun,dinner,3
+23.68,3.31,male,no,sun,dinner,2
+24.59,3.61,female,no,sun,dinner,4
+25.29,4.71,male,no,sun,dinner,4
+8.77,2,male,no,sun,dinner,2
+26.88,3.12,male,no,sun,dinner,4
+15.04,1.96,male,no,sun,dinner,2
+14.78,3.23,male,no,sun,dinner,2
+10.27,1.71,male,no,sun,dinner,2
+35.26,5,female,no,sun,dinner,4
+15.42,1.57,male,no,sun,dinner,2
+18.43,3,male,no,sun,dinner,4
